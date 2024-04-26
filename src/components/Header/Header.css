@@ -1,0 +1,12 @@
+.header {
+	background-color: #172234;
+	height: 80px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+.button-wrapper {
+	margin-right: 80px;
+	display: flex;
+	gap: 10px;
+}
